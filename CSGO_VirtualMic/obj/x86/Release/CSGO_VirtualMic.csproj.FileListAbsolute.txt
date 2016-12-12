@@ -1,0 +1,10 @@
+c:\users\minh\documents\visual studio 2010\Projects\CSGO_VirtualMic\CSGO_VirtualMic\bin\Release\CSGO_VirtualMic.exe
+c:\users\minh\documents\visual studio 2010\Projects\CSGO_VirtualMic\CSGO_VirtualMic\bin\Release\CSGO_VirtualMic.pdb
+c:\users\minh\documents\visual studio 2010\Projects\CSGO_VirtualMic\CSGO_VirtualMic\bin\Release\NAudio.dll
+c:\users\minh\documents\visual studio 2010\Projects\CSGO_VirtualMic\CSGO_VirtualMic\obj\x86\Release\CSGO_VirtualMic.Form1.resources
+c:\users\minh\documents\visual studio 2010\Projects\CSGO_VirtualMic\CSGO_VirtualMic\obj\x86\Release\CSGO_VirtualMic.Properties.Resources.resources
+c:\users\minh\documents\visual studio 2010\Projects\CSGO_VirtualMic\CSGO_VirtualMic\obj\x86\Release\CSGO_VirtualMic.csproj.GenerateResource.Cache
+c:\users\minh\documents\visual studio 2010\Projects\CSGO_VirtualMic\CSGO_VirtualMic\obj\x86\Release\CSGO_VirtualMic.exe
+c:\users\minh\documents\visual studio 2010\Projects\CSGO_VirtualMic\CSGO_VirtualMic\obj\x86\Release\CSGO_VirtualMic.pdb
+C:\Users\Minh\documents\visual studio 2010\Projects\CSGO_VirtualMic\CSGO_VirtualMic\obj\x86\Release\CSGO_VirtualMic.frmEditHotkey.resources
+C:\Users\Minh\documents\visual studio 2010\Projects\CSGO_VirtualMic\CSGO_VirtualMic\obj\x86\Release\CSGO_VirtualMic.csprojResolveAssemblyReference.cache
